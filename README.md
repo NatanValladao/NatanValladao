@@ -56,7 +56,7 @@ An advanced platform using Next.js and Sanity.io, leveraging ISR for top-tier pe
 <td width="50%" valign="top">
 <a href="https://github.com/NatanValladao/resolve-first-project" target="_blank">
 <!-- Replace with your Vanilla JS project image -->
-<img src="https://placehold.co/1280x640/111111/EAEAEA?text=Vanilla+JS+Project" width="100%" alt="Vanilla JS Project Image"/>
+<img src="https://github.com/user-attachments/assets/18a9482b-1f7c-4768-9dc5-dc48b5905f36" width="100%" alt="Vanilla JS Project Image"/>
 </a>
 <h4 align="center">Website with Vanilla JavaScript</h4>
 <p align="center">
